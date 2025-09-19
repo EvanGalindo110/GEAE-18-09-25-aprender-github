@@ -2,15 +2,15 @@
 
 # nombre del alubno y name:
 
-# Galindo Evan Alonso Escareño
-# EvanGalindo110
+## Galindo Evan Alonso Escareño
+## EvanGalindo110
 
 # correo electronico:
 
-# 24308060610646@cetis61.edu.mx
+## 24308060610646@cetis61.edu.mx
 
 # grupo:
 
-# 3.D
+## 3.D
 
 ![alt text](READMI.jpeg)
